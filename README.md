@@ -10,6 +10,9 @@ Enjoy!
 
 Brief description of the columns in the Arctic_Vertebrate_Database_v3.csv
 
+For more details see Dey CJ, Yurkowski D, Schuster R, Shiffman D, Bittick SJ. 2018. Patterns of uncertainty in life-history and extinction risk for Arctic vertebrates. Arctic Science
+
+
 common_name = The English common name for the species
 
 latin_name = Latin name for the species. 
@@ -57,3 +60,11 @@ n_assessment = number of assessments of the species conducted through the IUCN R
 first_status = IUCN Red List status of the species from the first assessment
 
 
+
+Brief description of the columns in all_assessments.csv
+
+latin_name = latin name of the species
+
+status = IUCN Red List status for a particular assessment
+
+year = year of the assessment
