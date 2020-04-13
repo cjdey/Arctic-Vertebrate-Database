@@ -10,7 +10,7 @@ require(pscl)
 ###################
 
 
-AVD <- read_csv("Arctic_Vertebrate_Database_v3.csv")
+AVD <- read_csv("Arctic_Vertebrate_Database.csv")
 AVD$group <- as.factor(AVD$group)
 AVD$IUCN_status <- as.factor(AVD$IUCN_status)
 
